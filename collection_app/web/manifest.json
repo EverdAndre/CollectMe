@@ -1,11 +1,11 @@
 {
-    "name": "collection_app",
-    "short_name": "collection_app",
+    "name": "CollectMe",
+    "short_name": "CollectMe",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Aplicativo para organizar colecoes pessoais.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
