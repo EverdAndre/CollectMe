@@ -25,8 +25,6 @@ O CollectMe centraliza esses dados em um app desktop simples, com armazenamento 
 
 ## Imagens do app
 
-Adicione aqui prints do aplicativo funcionando.
-
 ### Tela Inicial
 
 ![Tela inicial](collection_app/images/tela-inicial.png)
